@@ -85,3 +85,28 @@ body{
    margin-bottom: 0.2em;
 }
  
+
+#reset:hover {
+    background-color:#d8bc46;
+    
+    
+}
+
+
+
+@media screen and (max-width:320px) {
+    .row{
+        padding: 1em;
+    }
+    
+.h1-text{     
+    font-size: 3em;
+   
+    
+    margin-bottom: 0.5em;
+    /* text-align: center; */
+
+}
+ 
+    
+}
